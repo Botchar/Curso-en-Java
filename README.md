@@ -1,2 +1,10 @@
-# Curso-en-Java
-Curso para Java
+# Curso en Java
+
+¡Hola! Bienvenido al curso en Java. Aquí podrás encontrar las herramientas y el temario del curso.
+
+## Herramientas
+
+ 1. Instalación del JDK
+
+## Temario
+
