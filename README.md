@@ -5,6 +5,7 @@
 ## Herramientas
 
  1. Instalación del JDK
+ 2. IntelliJ IDEA
 
 ## Temario
 
